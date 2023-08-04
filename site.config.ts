@@ -14,7 +14,7 @@ export default siteConfig({
   author: 'Nikhil Verma',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: 'ftNikhil.eth',
 
   // social usernames (optional)
   twitter: 'nikhilverma360',
